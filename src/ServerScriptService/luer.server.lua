@@ -1,0 +1,1 @@
+local BadgeService = game:GetService("BadgeService")
